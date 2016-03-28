@@ -1,0 +1,27 @@
+﻿body {
+    background-color:antiquewhite;
+    padding-left:200px;
+}
+table {
+    border: 2px double black;
+    padding: 3px;
+    height:500px;
+    background-color:azure;
+    line-height:30px;
+}
+h1 {
+border:2px double black;
+text-align:center;
+}
+td {
+border-right:2px double black;
+width:430px;
+}
+label {
+background-color:lightcoral;
+border:2px double lightcoral;
+}
+h3 {
+border: 2px double black;
+text-align:center;
+}
